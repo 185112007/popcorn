@@ -1,0 +1,14 @@
+Backup/
+Video/
+Images/
+DOS_Game/
+Popcorn/Debug/
+Popcorn/.vs/
+Popcorn/Popcorn/Debug
+Popcorn/Popcorn/*.h
+Popcorn/Popcorn/*.ico
+Popcorn/Popcorn/*.rc
+Popcorn/Popcorn/*.vcxproj
+Popcorn/Popcorn/*.vcxproj.filters
+Popcorn/Popcorn/*.vcxproj.user
+
